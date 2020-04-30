@@ -1,2 +1,3 @@
 # Hello-world-
-Fist depository 
+First depository 
+First time using github
